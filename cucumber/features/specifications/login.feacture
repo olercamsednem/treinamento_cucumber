@@ -1,0 +1,14 @@
+#Language:pt
+
+Funcionalidade: Validar Login
+
+eu, como usuario da netshoes
+desejo realizar um login com sucesso
+para realizar compras novas
+
+Cenario: realizar login com sucesso
+
+Dado que acesse o site pricipal
+Quando eu  clicar em logar
+E passar usuário e senha validos
+E clicar 
