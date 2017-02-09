@@ -12,6 +12,7 @@ git commit -m "Mensagem" = comita com uma Mensagem;
 git push = envia para outro repositório;
 git reset + arquivo = tira de staging e volta para loca;
 git rm + arquivo = também remove o arquivo;
+git -D NomeDaBranch = deleta a Branch
 
 '''
 
